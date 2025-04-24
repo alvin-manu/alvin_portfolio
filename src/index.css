@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+  color: white; /* Move color here instead of * selector */
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
