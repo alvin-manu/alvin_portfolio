@@ -8,7 +8,8 @@ function Skills() {
         Technologies and tools I use
       </h4>
 
-      <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6 p-4">
+      <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6 p-4  mx-auto  max-w-7xl">
+        
         <div class="flex flex-col items-center gap-2 p-4 bg-gray-800 rounded-xl shadow-md hover:scale-105 transition-transform">
           <img
             src="https://www.svgrepo.com/show/303205/html-5-logo.svg"

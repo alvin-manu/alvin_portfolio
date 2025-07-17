@@ -52,7 +52,7 @@ function Navbar() {
                   </ul>
               </div>
               <div className="hidden md:inline-block">
-                <a href="mailto:alvinmanuwilson@gmail.com" target="_blank" className="py-3 px-4 text-white bg-indigo-600 hover:bg-indigo-700 rounded-md shadow">
+                <a href="#contact" className="py-3 px-4 text-white bg-indigo-600 hover:bg-indigo-700 rounded-md shadow">
                     Contact ME
                 </a>
               </div>

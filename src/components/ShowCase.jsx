@@ -8,7 +8,8 @@ function ShowCase() {
         Everything needed to build great products on the web
       </h4>
 
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6  w-full items-center p-4 justify-center">
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 max-w-7xl mx-auto p-4">
+
         <div class="bg-gray-900 text-white rounded-xl p-6 shadow-md">
           <div class="bg-indigo-600 w-10 h-10 flex items-center justify-center rounded-full mb-4">
           <i className="fa-solid fa-code"></i>
