@@ -10,7 +10,7 @@ function Hero() {
         <h1 className="text-4xl md:text-8xl bg-linear-to-r/hsl from-indigo-500 to-teal-400 bg-clip-text text-transparent">Web Developer</h1>
         <h4 className="text-neutral-400 text-center text-lg pt-3">Creating <span className="text-xl md:text-2xl"> high-quality Web Applications</span> for modern tools and best practices for Exceptional User Experience</h4>
         <div className="btn-container py-3 px-3">
-          <a href={cvfile} download>
+          <a href="https://drive.google.com/file/d/1fuEwJGlxOXjMxu6RdfWtA12D9GaHRrNP/view?usp=sharing">
             <button className="py-2 px-3 text-white bg-indigo-600 hover:bg-indigo-700 rounded-md shadow">Download CV</button>
             </a>
             <a href="#projects">
