@@ -13,9 +13,9 @@ function Hero() {
           <a href={cvfile} download className="py-2 px-3 text-white bg-indigo-600 hover:bg-indigo-700 rounded-md shadow">
             View My Resume
           </a>
-            <a href="#projects">
-            <button className="ms-3 py-2 px-3 text-white border border-indigo-600  hover:bg-indigo-700 rounded-md shadow">View Projects</button>
-            </a>
+            <a href="#projects" className="ms-3 py-2 px-3 text-white border border-indigo-600 hover:bg-indigo-700 rounded-md shadow inline-block">
+    View Projects
+  </a>
         </div>
         <div className="socials-container flex py-3 px-3">
             <a href="https://www.linkedin.com/in/alvin-manu-wilson-0735292b2"><i class="fa-brands fa-linkedin"></i></a>
