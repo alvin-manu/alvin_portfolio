@@ -43,6 +43,7 @@ function Projects() {
             <a
               href="https://github.com/alvin-manu/mern_blog_app"
               target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-blue-400 hover:text-white transition-colors duration-200 font-medium"
             >
               <i className="fa-brands fa-github"></i>
@@ -73,6 +74,7 @@ function Projects() {
             <a
               href="https://github.com/alvin-manu/Project-hive"
               target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-blue-400 hover:text-white transition-colors duration-200 font-medium"
             >
               <i className="fa-brands fa-github"></i>
@@ -103,6 +105,7 @@ function Projects() {
             <a
               href="https://github.com/alvin-manu/mediaPlayerFE"
               target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-blue-400 hover:text-white transition-colors duration-200 font-medium"
             >
               <i className="fa-brands fa-github"></i>
@@ -133,6 +136,7 @@ function Projects() {
             <a
               href="https://github.com/alvin-manu/movie_website"
               target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-blue-400 hover:text-white transition-colors duration-200 font-medium"
             >
               <i className="fa-brands fa-github"></i>
@@ -163,6 +167,7 @@ function Projects() {
             <a
               href="https://github.com/alvin-manu/restaurant_website"
               target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-blue-400 hover:text-white transition-colors duration-200 font-medium"
             >
               <i className="fa-brands fa-github"></i>
