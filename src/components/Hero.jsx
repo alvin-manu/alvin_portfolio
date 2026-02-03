@@ -18,9 +18,9 @@ function Hero() {
   </a>
         </div>
         <div className="socials-container flex py-3 px-3">
-            <a href="https://www.linkedin.com/in/alvin-manu-wilson-0735292b2"><i class="fa-brands fa-linkedin"></i></a>
-            <a href="https://github.com/alvin-manu" className="ms-4"><i class="fa-brands fa-github"></i></a>
-            <a href="mailto:alvinmanuwilson@gmail.com" className="ms-4"><i class="fa-solid fa-envelope"></i></a>
+            <a href="https://www.linkedin.com/in/alvin-manu-wilson-0735292b2"><i className="fa-brands fa-linkedin"></i></a>
+            <a href="https://github.com/alvin-manu" className="ms-4"><i className="fa-brands fa-github"></i></a>
+            <a href="mailto:alvinmanuwilson@gmail.com" className="ms-4"><i className="fa-solid fa-envelope"></i></a>
         </div>
       </div>
     </>
