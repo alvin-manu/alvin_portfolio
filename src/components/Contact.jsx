@@ -29,7 +29,7 @@ function Contact() {
   return (
     <section className="bg-black text-white p-4 md:p-5 py-10" id="contact">
       <div className="max-w-3xl mx-auto">
-             <h2 className="text-center text-2xl md:text-4xl mt-10" id="skills">Contact Me</h2>
+             <h2 className="text-center text-2xl md:text-4xl mt-10" id="contact-header">Contact Me</h2>
 
         <p className="text-neutral-400 text-center mb-10  pt-3">
           Have a question or want to work together? Send me a message!
